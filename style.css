@@ -1,0 +1,16 @@
+body {font-family: 'Encode Sans SC', sans-serif;
+}
+.navBar{
+    background: url('./logospacex.jpg');
+}
+
+.derecha, .izquierda{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem 0;
+
+}
+.derecha img{
+    width: 90%;
+}
